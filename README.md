@@ -1,2 +1,2 @@
 # Guess-the-number-Game
-the guess the nmbmer Game in C#
+the guess the number Game in C#
